@@ -41,7 +41,7 @@ public class dataServiceImp implements dataService{
         return dataMapper.getUsersBySort(n);
     }
     // 根据论坛新发送的数据修改数据库内容
-    public void update(List<PostData> posts) throws Exception{
+    public void update(String jsonString) throws Exception{
         BufferedWriter writer = null;
         String srcPath = getSrcPath();
         String path = srcPath+"\\bin\\data.json";
@@ -53,7 +53,6 @@ public class dataServiceImp implements dataService{
                 e.printStackTrace();
             }
         }
-        String jsonString = JSON.toJSONString(posts);
         try {
             writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file,false), "UTF-8"));
             writer.write(jsonString);

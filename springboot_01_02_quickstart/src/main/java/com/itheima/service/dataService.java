@@ -15,5 +15,5 @@ public interface dataService {
     // 获得热度排序靠前的n个用户
     List<User> getUsersBySort(Integer n) throws Exception;
     // 根据论坛新发送的数据修改数据库内容
-   void update(List<PostData> posts) throws Exception;
+   void update(String jsonString) throws Exception;
 }

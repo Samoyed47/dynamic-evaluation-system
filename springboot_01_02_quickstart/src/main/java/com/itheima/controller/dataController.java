@@ -3,7 +3,6 @@ package com.itheima.controller;
 
 import com.itheima.model.Post;
 import com.itheima.model.User;
-import com.itheima.service.PostData;
 import com.itheima.service.dataService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -46,8 +45,8 @@ public class dataController {
         return new ResponseData<List<Post>>(posts, "成功",200);
     }
     @PostMapping("/info")
-    public ResponseData<Object> update(@RequestBody List<PostData> postData)  throws Exception{
-        dataService.update(postData);
+    public ResponseData<Object> update(@RequestBody String jsonString)  throws Exception{
+        dataService.update(jsonString);
         return new ResponseData<Object>(null, "成功",200);
     }
 }
