@@ -1,0 +1,9 @@
+13:37:59.577 [main] INFO  c.i.Springboot0102QuickstartApplication - Starting Springboot0102QuickstartApplication using Java 1.8.0_341 on LAPTOP-ECTUFM53 with PID 9336 (E:\桌面\project\spring\springboot\dynamic-evaluation-system\springboot_01_02_quickstart\target\classes started by ASUS in E:\桌面\project\spring\springboot\dynamic-evaluation-system\springboot_01_02_quickstart)
+13:37:59.580 [main] INFO  c.i.Springboot0102QuickstartApplication - No active profile set, falling back to 1 default profile: "default"
+13:38:00.564 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+13:38:00.564 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+13:38:00.565 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+13:38:00.748 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+13:38:00.927 [main] INFO  o.n.driver.internal.DriverFactory - Direct driver instance 239937174 created for server address localhost:7687
+13:38:01.488 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+13:38:01.503 [main] INFO  c.i.Springboot0102QuickstartApplication - Started Springboot0102QuickstartApplication in 2.292 seconds (JVM running for 3.659)
