@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="340f71df-5b16-4e8a-828d-e88ab0f8026a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_02_quickstart/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/itheima/Springboot0102QuickstartApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/itheima/Springboot0102QuickstartApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/itheima/controller/dataController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/itheima/controller/dataController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/itheima/mapper/dataMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/itheima/mapper/dataMapperImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/itheima/mapper/dataMapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/itheima/model/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/itheima/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/itheima/service/dataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/itheima/service/dataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/itheima/service/dataServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/java/com/itheima/service/dataServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/resources/bin/getScore.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/resources/bin/getScore.py" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/resources/bin/getScore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/resources/db/data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/bin/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/bin/getScore.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/bin/getScore.py" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/bin/getScore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/bin/postScore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/bin/userScore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/com/itheima/Springboot0102QuickstartApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/com/itheima/Springboot0102QuickstartApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/com/itheima/controller/dataController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/com/itheima/controller/dataController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/com/itheima/mapper/dataMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/com/itheima/mapper/dataMapperImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/com/itheima/mapper/dataMapperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/com/itheima/model/Post.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/com/itheima/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/com/itheima/service/dataService.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/com/itheima/service/dataService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/com/itheima/service/dataServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/com/itheima/service/dataServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_01_02_quickstart/target/classes/db/data.db" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/IDEA/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YboArEgEs5nXudbUPNRzXuTZwN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot_01_02_quickstart/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1527495" />
+    <property name="project.structure.side.proportion" value="0.18152869" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="340f71df-5b16-4e8a-828d-e88ab0f8026a" name="Default Changelist" comment="" />
+      <created>1700803499155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700803499155</updated>
+      <workItem from="1700803500855" duration="706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="38" width="1089" height="778" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1700804054647">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="38" width="1089" height="778" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1700804054647" />
+    <state x="614" y="297" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1700803579519">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="614" y="297" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.816@0.0.1536.816" timestamp="1700803579519" />
+    <state x="549" y="98" key="FileChooserDialogImpl" timestamp="1700804201369">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="98" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1700804201369" />
+    <state x="408" y="106" width="839" height="604" key="NewModule_or_Project.wizard" timestamp="1700803864248">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="408" y="106" width="839" height="604" key="NewModule_or_Project.wizard/0.0.1536.816@0.0.1536.816" timestamp="1700803864248" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1700804005288">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1700804005288" />
+    <state x="562" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1700804033029">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="562" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1700804033029" />
+  </component>
+</project>

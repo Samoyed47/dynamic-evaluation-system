@@ -1,0 +1,15 @@
+18:43:06.406 [main] INFO  c.i.Springboot0102QuickstartApplication - Starting Springboot0102QuickstartApplication using Java 1.8.0_341 on LAPTOP-ECTUFM53 with PID 28568 (E:\桌面\project\spring\springboot\springboot_01_02_quickstart\target\classes started by ASUS in E:\桌面\project\spring\springboot\springboot_01_02_quickstart)
+18:43:06.408 [main] INFO  c.i.Springboot0102QuickstartApplication - No active profile set, falling back to 1 default profile: "default"
+18:43:07.695 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+18:43:07.696 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:43:07.696 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+18:43:07.849 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:43:08.020 [main] INFO  o.n.driver.internal.DriverFactory - Direct driver instance 836397870 created for server address localhost:7687
+18:43:08.930 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+18:43:08.946 [main] INFO  c.i.Springboot0102QuickstartApplication - Started Springboot0102QuickstartApplication in 2.893 seconds (JVM running for 4.299)
+18:43:16.208 [http-nio-8000-exec-10] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:43:16.220 [http-nio-8000-exec-10] INFO  com.itheima.log.LoggingInterceptor - Request:0:0:0:0:0:0:0:1 POST /api/info - 1700563396220ms
+18:43:17.534 [http-nio-8000-exec-10] INFO  com.itheima.service.dataServiceImp - 创建或修改用户节点2个
+18:43:17.714 [http-nio-8000-exec-10] INFO  com.itheima.service.dataServiceImp - 创建或修改帖子节点3个
+18:43:18.843 [http-nio-8000-exec-10] INFO  com.itheima.service.dataServiceImp - 算法运行花费1082ms
+18:43:18.907 [http-nio-8000-exec-10] INFO  com.itheima.log.LoggingInterceptor - Answer:0:0:0:0:0:0:0:1 POST /api/info - 1700563398907ms code 200
